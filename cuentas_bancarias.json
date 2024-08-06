@@ -1,0 +1,10 @@
+{
+   "123": {
+      "nrocuenta": 123,
+      "dni": 44222337,
+      "titular": "Martina piedrabuena",
+      "saldo": 52.0,
+      "tipocuenta": "ca",
+      "moneda nacional": "pesos"
+   }
+}
